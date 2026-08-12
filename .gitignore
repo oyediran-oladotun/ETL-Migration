@@ -1,5 +1,11 @@
 .env
 .venv/
+docker-compose.yaml
+docker-compose.yml
+Dockerfile
+requirements.txt
+config/
+logs/
+plugins/
 __pycache__/
 *.pyc
-*.log
